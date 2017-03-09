@@ -1,0 +1,115 @@
+.hi{
+  background-color: red;
+}
+
+.carousel-inner>.item>img, .carousel-inner>.item>a>img {
+
+display: block;
+height: auto;
+width: 100%; // Add this
+}
+.carousel{
+margin-top: 100px;
+}
+
+.heading{
+   position: relative;
+   top: 80px;
+    text-align: center;
+    font-size: 50px;
+    }
+
+.item{
+  position: relative;
+}
+
+
+.one{
+    margin: 50px 0px 0px 0px;
+    position: relative;
+    text-align: center;
+    font-size: 30px;
+}
+.border{
+  display: block;
+  height: 3px;
+  width: 10%;
+  background-color: black;
+  margin: 10px auto;
+  /*border-bottom: 1px solid #c5a47 !important;
+  width: 40%;*/
+}
+
+.wht{
+  font-size: 100px;
+  margin: 30px 0px 0px 0px;
+}
+
+    .one1{
+      position: relative;
+      text-align: center;
+      font-size: 20px;
+    }
+.done{
+  margin: auto;
+  width: 100%;
+  height: 100%;
+}
+
+.done:hover{
+  border: 2px black solid;
+  opacity: 0.5;
+}
+.container-fluid{
+  margin:20px 10px 10px 10px;
+}
+
+#nk{
+  text-align: center;
+}
+
+
+.style11 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 0;
+    border-top: 1px solid #eee;
+}
+
+.form-control {
+    display: block;
+    width: 100%;
+    height: auto;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+.glyphicon{
+
+  display: block;
+  text-align: center;
+}
+.do{
+  display: block;
+  text-align: center;
+}
+.jj{
+  display: block;
+  text-align: left;
+  font-size: 20px;
+  }
+  #map {
+          height: 400px;
+          width: 100%;
+         }
+
+.navbar-inverse .navbar-nav > li > a:hover{
+  font-size: 15px;
+  -webkit-transition: 0.2s all;
+  color: #fff;
+}
